@@ -1,0 +1,23 @@
+
+button{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.heading{
+    margin-top: 10px;
+    color:cornflowerblue;
+    
+    line-height: 50px;
+}
+h2{
+    color:hotpink;
+    margin-top: 10px;
+}
+.pizza-description{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.pizza-image{
+    border-radius: 20px;
+    border: 2px solid black;
+}
